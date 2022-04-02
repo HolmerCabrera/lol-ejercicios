@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h1 {color:gold;
+    
+   
+}
+
+
+h3 {color:red;
+
+}
+
+.h4 {color: darkorchid;
+
+}
+
+header {
+
+    background-color: rgb(53, 53, 216);
+    
+    display: flex;
+   justify-content: left;
+   align-items: flex-start;
+   margin-bottom: 0px;
+   padding-top: 21px;
+padding-left: 25px;    
+        
+}
+
+button {
+    padding: 1.3em 3em;
+    
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+   }
+   
+   button:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+   }
+   
+   button:active {transform: translateY(-1px);
+   }
+
+footer {
+
+
+    background-color: rgb(141, 163, 153);
+    width: 100%;
+}
+
+.fondo-color {
+
+    background-color: rgb(53, 53, 216);
+   
+   display: flex;
+   justify-content: space-around;
+   align-items: baseline;
+    border: 0px;
+    margin: 0px; 
+    padding: 30px;
+
+}
+
+.objeto-b {
+   
+   padding-left: 1cm;
+
+}
+
+.habilidades-b {
+
+    padding-left: 1cm;
+}
+
+.farmeo-b {
+
+    padding-left: 1cm;
+}
+
+.pagina-oficial-b{
+
+    padding-right: 1cm;
+}
+
+
+.color-soporte { color: #0CC7BD;
+
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm;  
+
+}
+    
+.color-mago { color: #4C2AC7;
+
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm; 
+
+}
+
+.color-asesino { color: #D9025A; 
+
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm; 
+
+}
+
+.color-peleador { color: #E2AA17; 
+    
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm; 
+
+}
+
+.color-tanque { color:#08BD25;
+
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm; 
+
+}
+.parrafo0{
+    display: flex;
+    border: 1cm;
+    margin: 0.5cm; 
+    padding: 0.5cm;
+}
+
+.parrafo1 {
+
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm;
+}
+
+.parrafo2 {
+    border: 0.5cm;
+    margin: 0.5cm; 
+    padding: 0.5cm;
+}
+
+.parrafo3 { 
+
+    border: 1cm;
+    margin: 1cm; 
+    padding: 1cm;
+}
+
+
+.parrafo4  {
+    
+    border: 1cm;
+    margin: 1cm; 
+    padding: 1cm;
+    width: 33%;
+}
+
+.parrafo5 {
+
+    width: 85%;
+}
+
+
+
+.parrafo6{
+
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1cm;
+margin: 1cm; 
+
+}
+
+.imagen-objetos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1cm;
+    margin: 1cm; 
+}
+
+
+.imagen-habilidades {
+
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1cm;
+margin: 1cm; 
+
+
+}
+
+.imagen-farmeo{
+
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1cm;
+margin: 1cm; 
+
+
+}
+
+.texto1 {
+    
+    border: 1cm;
+    margin: 1cm; 
+    padding: 1cm;
+   
+}
+
+
+
+.div 
+
+{ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    height: 10%;
+}
