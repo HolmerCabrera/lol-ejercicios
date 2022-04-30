@@ -5,6 +5,22 @@
 }
 
 
+
+
+.notadeseguridad{
+    color: aliceblue;
+    background: #CE1D02;
+    background: -moz-linear-gradient(left, #CE1D02 0%, #A45936 50%, #C58F74 100%);
+    background: -webkit-linear-gradient(left, #CE1D02 0%, #A45936 50%, #C58F74 100%);
+    background: linear-gradient(to right, #CE1D02 0%, #A45936 50%, #C58F74 100%);
+    font-size: x-large;
+
+    display: flex;
+   justify-content:center;
+   align-items: flex-start;
+   font-size: 2cm;
+}
+
 h1 {color:gold;
     
    
