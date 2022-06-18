@@ -11,8 +11,12 @@
 3. Item 3
 
 
-_lo que sea_
+*lo que sea*
 
 
 [esta es mi pagina](https://holmercabrera.github.io/lol-ejercicios/)
 
+**hola**
+***hola***
+
+<code>
