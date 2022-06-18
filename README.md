@@ -16,7 +16,11 @@
 
 [esta es mi pagina](https://holmercabrera.github.io/lol-ejercicios/)
 
+
 **hola**
+
+
 ***hola***
 
-<code>
+'var = 5;'
+
